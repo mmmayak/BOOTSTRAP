@@ -1,0 +1,13 @@
+textarea{
+	resize: none;
+}
+
+
+.dropdown-menu a{
+	color: lightgrey;
+}
+
+.dropdown-menu a:hover{
+background: black;
+color: white;
+}
